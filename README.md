@@ -8,6 +8,6 @@ the rest in your to be created ./Lib/FAD directory and have a look at the notebo
 Or look at the fad_07_main.py and call your module:
 like :
 
-PYTHON VERSION
+PYTHON VERSION : Test_fad_v02.ipynb
 
 
